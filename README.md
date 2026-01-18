@@ -179,3 +179,15 @@ All AI-generated code is released under the MIT License.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## Support
+
+I would be happy if LinguaDock is helpful in your language learning.
+
+As TK2LAB, I continue activities focused on exploring learning, enjoying the process, and sharing what I discover.
+LinguaDock is one project born from this ongoing effort.
+
+If you resonate with this approach, your support through [GitHub Sponsors](https://github.com/sponsors/tk2f) would be greatly appreciated.
+
