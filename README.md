@@ -44,7 +44,7 @@ npm run build
 | Language | File | Words |
 |----------|------|:-----:|
 | 🇵🇱 Polish Intro | polish_sample.csv | 250 |
-| 🇬🇧 English Intro | english_sample.csv | 250 |
+| 🇺🇸 English Intro | english_sample.csv | 250 |
 | 🇩🇪 German Intro | german_sample.csv | 250 |
 | 🇫🇷 French Intro | french_sample.csv | 250 |
 | 🇪🇸 Spanish Intro | spanish_sample.csv | 250 |
