@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "LinguaDock",
+    "description": "多言語学習ツール - 日本人学習者向け",
+    "version": "2.0.0",
+    "permissions": [
+        "storage",
+        "sidePanel",
+        "tts"
+    ],
+    "side_panel": {
+        "default_path": "sidepanel.html"
+    },
+    "action": {
+        "default_title": "LinguaDock を開く"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    }
+}
