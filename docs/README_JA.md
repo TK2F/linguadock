@@ -183,3 +183,19 @@ MIT License - 詳細は [LICENSE](../LICENSE) をご覧ください。
 
 このプロジェクトは、実験的なAIアシスト開発ツール Google Antigravity を使用して開発されました。
 すべてのAI生成コードは、MITライセンスの下で公開されています。
+
+---
+
+## Support
+
+LinguaDockが皆さまの語学学習のお役に立ちましたら、とても嬉しいです。
+
+TK2LAB として、
+学びを試し、楽しみ、その過程を共有する活動を続けています。
+LinguaDockは、その取り組みから生まれたプロジェクトの一つです。
+
+もしご共感いただけましたら、
+[GitHub Sponsors](https://github.com/sponsors/tk2f) を通じて応援していただけると励みになります。
+
+どうぞよろしくお願いします。
+
